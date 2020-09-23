@@ -1,0 +1,7 @@
+classes= 4
+train  = data/train_new.txt
+valid  = data/valid_new.txt
+names = data/obj_new.names
+backup = backup/
+
+
