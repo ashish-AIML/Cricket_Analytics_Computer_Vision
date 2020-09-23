@@ -11,7 +11,7 @@ Example of impact point of balll & bat:
 
 For a better bowling analysis, background is segmented as white & only objects & their motion are visualized. [White_background_analysis](https://github.com/ashish-AIML/Cricket_Analytics_Computer_Vision/blob/master/output/white_background.mp4)
 
-Bowling Angle is calculated based on the x-y coordinates. [Bowling_angle]((https://github.com/ashish-AIML/Cricket_Analytics_Computer_Vision/blob/master/output/cricknet_angle_video.mp4)
+Bowling Angle is calculated based on the x-y coordinates. [Bowling_angle](https://github.com/ashish-AIML/Cricket_Analytics_Computer_Vision/blob/master/output/cricknet_angle_video.mp4)
 ***
 ---
 ## Training Files
